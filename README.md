@@ -28,3 +28,4 @@ You can any additional functions using fist and thumbdowm gesture.
 
 Hand gestures are shown in images.
 "# Gesture-Recognition" 
+"# Gesture-Recognition" 
